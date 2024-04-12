@@ -1,0 +1,22 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/(chatting)/chat/[chatRoomId]/chatBox.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.chatBox_chatBox__szm2A {
+  width: 500px;
+}
+.chatBox_chatBox__szm2A .message-container {
+  height: 300px;
+  overflow-y: auto;
+  margin-bottom: 1rem;
+}
+.chatBox_chatBox__szm2A .message-container .chat .chat-message {
+  border: 2px solid #9bbb4a;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+.chatBox_chatBox__szm2A .message-container .chat.self {
+  text-align: right;
+}
+.chatBox_chatBox__szm2A .message-container .chat.self .chat-message {
+  border-color: #dabc40;
+}

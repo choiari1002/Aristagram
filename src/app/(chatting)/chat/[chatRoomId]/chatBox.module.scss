@@ -1,0 +1,25 @@
+.chatBox {
+    width: 500px;
+    :global {
+        .message-container {
+            height: 300px;
+            overflow-y: auto;
+            margin-bottom: 1rem;
+
+            .chat {
+                .chat-message {
+                    border: 2px solid #9bbb4a;
+                    padding: 0.5rem;
+                    border-radius: 10px;
+                }
+                &.self {
+                    text-align: right;
+
+                    .chat-message {
+                        border-color: #dabc40;
+                    }
+                }
+            }
+        }
+    }
+}

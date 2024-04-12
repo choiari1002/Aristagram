@@ -1,0 +1,14 @@
+{
+  "node": {
+    "82a0e99333df3f57eb032f8f9c1d7c9dcd35341a": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Farichoi%2FDocuments%2FvisionZ%2FAristagram%2Fsrc%2Fapp%2F(chatting)%2FchatRoomList.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "lAVmO/nkpnUVz7e+INC4uBd2hCaGmTIigx2FxaG3ObE="
+}
